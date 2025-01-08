@@ -17,10 +17,10 @@ public class stack {
         System.out.println(stack.peek());
         
         // pop
-        stack.pop();
+        stack.pop(); // too many pops can cause EXCPETION
         System.out.println(stack.peek());
         
-        // search
+        // search returns the index+1
         System.out.println(stack.search("Minecraft"));
     }
 

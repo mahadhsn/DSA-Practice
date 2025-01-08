@@ -1,5 +1,5 @@
 # Stacks
-## Last in First out! (LIFO)
+## Last-In First-Out! (LIFO)
 - think of a stack as a vertical tower
 - can only access the most recent *(very top)* variable
 - must remove each top variable to access lower ones
