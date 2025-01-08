@@ -1,6 +1,7 @@
 # DSA-Practice
-Personal Practice for DSA
+## Practice for DSA
+### Each folder has its own markdown file. Read it to understand the DSA.
 
-To do:
-- [x] decide what language to use
-    - both `Java` and `Python` for now
+### Current Additions:
+- **Stacks**
+- **Queues**
