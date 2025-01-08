@@ -1,4 +1,5 @@
-## O(n) solution
+# O(n) solution
+# Topics: Stack
 
 def isValid(self, s):
     paranthesis = {'(':')','[':']','{':'}'}
