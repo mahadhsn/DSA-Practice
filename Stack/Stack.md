@@ -1,21 +1,22 @@
 # Stacks
-### Last in First out! (LIFO)
+## Last in First out! (LIFO)
 - think of a stack as a vertical tower
 - can only access the most recent *(very top)* variable
 - must remove each top variable to access lower ones
 
 ## Functions:
-**push**
+### push
 - adds a variable to the top of the stack
-- could potentially run out of memory </br>
-**pop**
+- could potentially run out of memory
+
+### pop
 - removes the most recent addition
-    - top of the tower</br>
-**peek**
+    - top of the tower
+### pop
 - displays topmost variable</br>
-**search**
+### search
 - returns the *(index + 1)* of the entered variable
     - e.x: `stack.search("Minecraft")` would return its correspoding index value added 1
 - if not in stack, returns `-1`</br>
-**check if empty**
+### check if empty
 - returns a boolean indicating whether the stack is empty or not
